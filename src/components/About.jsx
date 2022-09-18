@@ -18,11 +18,11 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
+              fuga pariatur corporis nulla qui incidunt cupiditate sit
+              blanditiis reprehenderit dolores earum ratione, dicta quidem harum
+              voluptas ad expedita nihil molestias! Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Totam, soluta.
             </p>
           </div>
         </div>

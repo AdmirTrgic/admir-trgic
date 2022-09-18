@@ -13,8 +13,10 @@ const Home = () => {
           FULL STACK DEVELOPER.
         </h2>
         <p className="text-white py-4 mx-w-[700px]">
-          I'm a software engineer with experience translating business
-          requirements and objectives into fully-realized solutions.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim vitae,
+          qui sit corrupti, voluptatem eos similique reprehenderit illo deleniti
+          eveniet cupiditate itaque ipsum sed quia, nobis asperiores. Atque,
+          quia minima.
         </p>
         <div>
           <button className="text-white group border-2 px-5 py-2 my-2 flex items-center rounded-md hover:bg-[#8892b8] hover:border-[#8892b8]">
