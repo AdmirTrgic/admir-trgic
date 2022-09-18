@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/admirtrgicportofolio/static/css/main.75783a5f.css",
-    "main.js": "/admirtrgicportofolio/static/js/main.a6bbbf58.js",
-    "static/media/workImg.jpeg": "/admirtrgicportofolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/react.png": "/admirtrgicportofolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/admirtrgicportofolio/static/media/aws.95bdee6b9922c9b94fd5.png",
-    "static/media/node.png": "/admirtrgicportofolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mariaDB.png": "/admirtrgicportofolio/static/media/mariaDB.c5c6d3f661ad9b4a55a1.png",
-    "static/media/mongo.png": "/admirtrgicportofolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/html.png": "/admirtrgicportofolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/admirtrgicportofolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/admir-logo.png": "/admirtrgicportofolio/static/media/admir-logo.e8ff125dec5136c16b4e.png",
-    "static/media/javascript.png": "/admirtrgicportofolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/admirtrgicportofolio/index.html",
-    "main.75783a5f.css.map": "/admirtrgicportofolio/static/css/main.75783a5f.css.map",
-    "main.a6bbbf58.js.map": "/admirtrgicportofolio/static/js/main.a6bbbf58.js.map"
+    "main.css": "/admir-trgic/static/css/main.75783a5f.css",
+    "main.js": "/admir-trgic/static/js/main.3c5ab7ec.js",
+    "static/media/workImg.jpeg": "/admir-trgic/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/admir-trgic/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/admir-trgic/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/admir-trgic/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mariaDB.png": "/admir-trgic/static/media/mariaDB.c5c6d3f661ad9b4a55a1.png",
+    "static/media/mongo.png": "/admir-trgic/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/admir-trgic/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/admir-trgic/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/admir-logo.png": "/admir-trgic/static/media/admir-logo.e8ff125dec5136c16b4e.png",
+    "static/media/javascript.png": "/admir-trgic/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/admir-trgic/index.html",
+    "main.75783a5f.css.map": "/admir-trgic/static/css/main.75783a5f.css.map",
+    "main.3c5ab7ec.js.map": "/admir-trgic/static/js/main.3c5ab7ec.js.map"
   },
   "entrypoints": [
     "static/css/main.75783a5f.css",
-    "static/js/main.a6bbbf58.js"
+    "static/js/main.3c5ab7ec.js"
   ]
 }
