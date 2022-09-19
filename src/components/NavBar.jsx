@@ -10,8 +10,8 @@ const NavBar = () => {
 
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center  px-8 bg-[#0a192f] text-gray-300">
-      <div>
+    <div className="fixed container w-full h-[80px] flex justify-between items-center px-8 bg-[#0a192f] text-gray-300 text-xl">
+      <div className="">
         <img src={Logo} alt="" style={{ width: '160px' }} />
       </div>
 
@@ -93,7 +93,7 @@ const NavBar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/admir-trgic-96851790/"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -101,19 +101,28 @@ const NavBar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/AdmirTrgic"
             >
               GitHub <FaGithub size={30} />
             </a>
           </li>
+
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-            <a
-              className="flex justify-between items-center w-full text-gray-300 "
-              href="/"
+            <Link
+              className="flex justify-between  items-center w-full"
+              to="contact"
+              smooth={true}
+              duration={500}
             >
-              Mail <HiOutlineMail size={30} />
-            </a>
+              <a
+                className="flex justify-between  items-center w-full text-gray-300 "
+                href="/"
+              >
+                Mail <HiOutlineMail size={30} />
+              </a>
+            </Link>
           </li>
+
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300 "
