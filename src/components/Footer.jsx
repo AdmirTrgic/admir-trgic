@@ -10,9 +10,9 @@ const Footer = () => {
         <div className=" flex flex-col justify-center ml-6">
           <h1 className="py-4 text-xl font-bold">ADMIR TRGIC</h1>
           <p className="py-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
-            blanditiis culpa facilis explicabo suscipit voluptas itaque iusto
-            eaque officiis neque.
+            I am a Junior Full-Stack Web Developer with a passion for
+            programming as well as a creative eye and a pragmatic mind. I love
+            learning about new things and implementing them into my work.
           </p>
         </div>
         <div className="flex flex-col justify-center sm:justify-end items-center">

@@ -17,13 +17,14 @@ const About = () => {
             <h3>Hi. I'm Admir, nice to meet you. Please take a look around.</h3>
           </div>
           <div>
-            <p>
-              <span className="text-xl text-[#b0a243]">&lt;p&gt; </span>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
-              fuga pariatur corporis nulla qui incidunt cupiditate sit
-              blanditiis reprehenderit dolores earum ratione, dicta quidem harum
-              voluptas ad expedita nihil molestias! Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Totam, soluta.
+            <p className="text-xl">
+              <span className=" text-[#b0a243]">&lt;p&gt; </span>I'm passionate
+              about building stuff and resolving challenges. I'm considering
+              myself happy because I can fulfill my passion with three things
+              that I very like: Coding (really enjoy), Business and People
+              Sometimes when you spend more than 15 hours a day of coding and
+              you can't wait to wake up to continue, you know that you really
+              enjoy it.
               <span className="text-xl text-[#b0a243]"> &lt;/p&gt;</span>
             </p>
           </div>

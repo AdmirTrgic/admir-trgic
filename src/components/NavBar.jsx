@@ -9,8 +9,9 @@ const NavBar = () => {
   const [nav, setNav] = useState(false);
 
   const handleClick = () => setNav(!nav);
+
   return (
-    <div className="fixed container w-full h-[80px] flex justify-between items-center px-8 bg-[#0a192f] text-gray-300 text-xl">
+    <div className="navBar w-full h-[80px]  flex justify-between items-center px-8 bg-[#0a192f] text-gray-300 text-2xl">
       <div className="">
         <img src={Logo} alt="" style={{ width: '160px' }} />
       </div>
@@ -31,6 +32,11 @@ const NavBar = () => {
         <li className="hover:text-[#8892b8]">
           <Link to="skills" smooth={true} duration={500}>
             Skills
+          </Link>
+        </li>
+        <li className="hover:text-[#8892b8]">
+          <Link to="experience" smooth={true} duration={500}>
+            Experience
           </Link>
         </li>
         <li className="hover:text-[#8892b8]">
@@ -72,6 +78,12 @@ const NavBar = () => {
           {' '}
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
             Skills
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          {' '}
+          <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
+            Experience
           </Link>
         </li>
         <li className="py-6 text-4xl">
