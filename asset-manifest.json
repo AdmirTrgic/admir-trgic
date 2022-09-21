@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/admir-trgic/static/css/main.aa230ad2.css",
-    "main.js": "/admir-trgic/static/js/main.645ee0a0.js",
-    "static/media/workImg.jpeg": "/admir-trgic/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.css": "/admir-trgic/static/css/main.d6674a12.css",
+    "main.js": "/admir-trgic/static/js/main.d1cfc171.js",
     "static/media/react.png": "/admir-trgic/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/admir-trgic/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/admir-trgic/static/media/node.952a9ea986dcfa5229ad.png",
@@ -13,11 +12,11 @@
     "static/media/admir-logo.png": "/admir-trgic/static/media/admir-logo.e8ff125dec5136c16b4e.png",
     "static/media/javascript.png": "/admir-trgic/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/admir-trgic/index.html",
-    "main.aa230ad2.css.map": "/admir-trgic/static/css/main.aa230ad2.css.map",
-    "main.645ee0a0.js.map": "/admir-trgic/static/js/main.645ee0a0.js.map"
+    "main.d6674a12.css.map": "/admir-trgic/static/css/main.d6674a12.css.map",
+    "main.d1cfc171.js.map": "/admir-trgic/static/js/main.d1cfc171.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa230ad2.css",
-    "static/js/main.645ee0a0.js"
+    "static/css/main.d6674a12.css",
+    "static/js/main.d1cfc171.js"
   ]
 }
