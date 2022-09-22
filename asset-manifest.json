@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admir-trgic/static/css/main.ef560370.css",
-    "main.js": "/admir-trgic/static/js/main.6eef3fdf.js",
+    "main.js": "/admir-trgic/static/js/main.cf0d015b.js",
     "static/media/react.png": "/admir-trgic/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/admir-trgic/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/admir-trgic/static/media/node.952a9ea986dcfa5229ad.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/admir-trgic/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/admir-trgic/index.html",
     "main.ef560370.css.map": "/admir-trgic/static/css/main.ef560370.css.map",
-    "main.6eef3fdf.js.map": "/admir-trgic/static/js/main.6eef3fdf.js.map"
+    "main.cf0d015b.js.map": "/admir-trgic/static/js/main.cf0d015b.js.map"
   },
   "entrypoints": [
     "static/css/main.ef560370.css",
-    "static/js/main.6eef3fdf.js"
+    "static/js/main.cf0d015b.js"
   ]
 }
