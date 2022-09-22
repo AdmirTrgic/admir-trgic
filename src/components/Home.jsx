@@ -18,7 +18,7 @@ const Home = () => {
           <span> &lt;/h2&gt;</span>
         </h2>
         <p className="text-white text-xl ml-12 py-2 mx-w-[700px]">
-          <span className="text-xl  text-[#b0a243]">&lt;p&gt; </span>I am a
+          <span className="text-xl  text-[#b0a243]">&lt;p&gt; </span>I'm a
           Junior Full-Stack Web Developer with a passion for programming as well
           as a creative eye and a pragmatic mind. I love learning about new
           things and implementing them into my work.
@@ -28,7 +28,7 @@ const Home = () => {
           <div>
             <span className="text-2xl mt-10 text-[#436bb0]">&lt;/body&gt;</span>
           </div>
-          <button className="text-white text-xl ml-12 group border-2 px-5 py-2 my-6 flex items-center rounded-md hover:bg-[#8892b8] hover:border-[#8892b8]">
+          <button className="text-white text-xl ml-12 group border-2 px-5 py-2 my-6 flex items-center rounded-md">
             <Link to="work" smooth={true} duration={500}>
               View Work
             </Link>

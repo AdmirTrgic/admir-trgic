@@ -82,7 +82,12 @@ const NavBar = () => {
         </li>
         <li className="py-6 text-4xl">
           {' '}
-          <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
+          <Link
+            onClick={handleClick}
+            to="experience"
+            smooth={true}
+            duration={500}
+          >
             Experience
           </Link>
         </li>
@@ -102,7 +107,7 @@ const NavBar = () => {
       {/* social items */}
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-1px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.linkedin.com/in/admir-trgic-96851790/"
@@ -138,7 +143,9 @@ const NavBar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300 "
-              href="/"
+              href="https://drive.google.com/file/d/1nZ_jnyBWjmhbCrnAV-sLhCgUvW3_Cz46/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
