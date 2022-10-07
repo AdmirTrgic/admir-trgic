@@ -45,7 +45,7 @@ const Footer = () => {
             <li className='mr-3 p-3 bg-[#434242] rounded-full'>
               <a
                 className=' items-center text-gray-300 hover:text-[#ae4444]'
-                href='https://drive.google.com/file/d/1DJGZG5DnfkvFPeymlfR2Sb6-FwBGCK0x/view?usp=sharing'
+                href='https://drive.google.com/file/d/1WcmeIjnaDurAaOcCbvq6PF3YlW33OItR/view?usp=sharing'
               >
                 <BsFillPersonLinesFill size={30} />
               </a>
