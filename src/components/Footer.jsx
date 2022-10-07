@@ -22,6 +22,8 @@ const Footer = () => {
               <a
                 className='items-center bg-[#434242] hover:text-[#ae4444]'
                 href='https://www.linkedin.com/in/admir-trgic-96851790/'
+                target='_blank'
+                rel='noreferrer noopener'
               >
                 <FaLinkedin size={30} />
               </a>
@@ -30,6 +32,8 @@ const Footer = () => {
               <a
                 className='items-center justify-center text-gray-300 hover:text-[#ae4444]'
                 href='https://github.com/AdmirTrgic'
+                target='_blank'
+                rel='noreferrer noopener'
               >
                 <FaGithub size={30} />
               </a>
@@ -46,6 +50,8 @@ const Footer = () => {
               <a
                 className=' items-center text-gray-300 hover:text-[#ae4444]'
                 href='https://drive.google.com/file/d/1WcmeIjnaDurAaOcCbvq6PF3YlW33OItR/view?usp=sharing'
+                target='_blank'
+                rel='noreferrer noopener'
               >
                 <BsFillPersonLinesFill size={30} />
               </a>

@@ -111,6 +111,8 @@ const NavBar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/in/admir-trgic-96851790/'
+              target='_blank'
+              rel='noreferrer noopener'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -119,6 +121,8 @@ const NavBar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/AdmirTrgic'
+              target='_blank'
+              rel='noreferrer noopener'
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -145,7 +149,7 @@ const NavBar = () => {
               className='flex justify-between items-center w-full text-gray-300 '
               href='https://drive.google.com/file/d/1WcmeIjnaDurAaOcCbvq6PF3YlW33OItR/view?usp=sharing'
               target='_blank'
-              rel='noreferrer'
+              rel='noreferrer noopener'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
