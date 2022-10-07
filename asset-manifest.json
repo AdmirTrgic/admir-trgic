@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/admir-trgic/static/css/main.ef560370.css",
-    "main.js": "/admir-trgic/static/js/main.6ff0b61d.js",
+    "main.css": "/admir-trgic/static/css/main.e0180df0.css",
+    "main.js": "/admir-trgic/static/js/main.b687f57a.js",
     "static/media/react.png": "/admir-trgic/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/admir-trgic/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/admir-trgic/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mariaDB.png": "/admir-trgic/static/media/mariaDB.c5c6d3f661ad9b4a55a1.png",
     "static/media/mongo.png": "/admir-trgic/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -12,11 +11,11 @@
     "static/media/admir-logo.png": "/admir-trgic/static/media/admir-logo.e8ff125dec5136c16b4e.png",
     "static/media/javascript.png": "/admir-trgic/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/admir-trgic/index.html",
-    "main.ef560370.css.map": "/admir-trgic/static/css/main.ef560370.css.map",
-    "main.6ff0b61d.js.map": "/admir-trgic/static/js/main.6ff0b61d.js.map"
+    "main.e0180df0.css.map": "/admir-trgic/static/css/main.e0180df0.css.map",
+    "main.b687f57a.js.map": "/admir-trgic/static/js/main.b687f57a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef560370.css",
-    "static/js/main.6ff0b61d.js"
+    "static/css/main.e0180df0.css",
+    "static/js/main.b687f57a.js"
   ]
 }
