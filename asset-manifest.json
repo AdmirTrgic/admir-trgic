@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admir-trgic/static/css/main.e0180df0.css",
-    "main.js": "/admir-trgic/static/js/main.b687f57a.js",
+    "main.js": "/admir-trgic/static/js/main.9bf97e88.js",
     "static/media/react.png": "/admir-trgic/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/admir-trgic/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mariaDB.png": "/admir-trgic/static/media/mariaDB.c5c6d3f661ad9b4a55a1.png",
@@ -12,10 +12,10 @@
     "static/media/javascript.png": "/admir-trgic/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/admir-trgic/index.html",
     "main.e0180df0.css.map": "/admir-trgic/static/css/main.e0180df0.css.map",
-    "main.b687f57a.js.map": "/admir-trgic/static/js/main.b687f57a.js.map"
+    "main.9bf97e88.js.map": "/admir-trgic/static/js/main.9bf97e88.js.map"
   },
   "entrypoints": [
     "static/css/main.e0180df0.css",
-    "static/js/main.b687f57a.js"
+    "static/js/main.9bf97e88.js"
   ]
 }
